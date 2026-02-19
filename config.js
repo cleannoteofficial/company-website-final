@@ -23,13 +23,13 @@ const CONFIG = {
     companyName: '클린노트',
 
     // 대표 전화번호 (네비게이션 바, 푸터에 표시)
-    phone: '0000-0000',
+    phone: '010-6464-9110',
 
     // 이메일 주소 (푸터에 표시)
-    email: 'cleannote@gmail.com',
+    email: 'cleannote.official@gmail.com',
 
     // 회사 주소 (푸터에 표시)
-    address: '인천시 계양구 ...',
+    address: '인천시 서구 서로3로 225',
 
     // 저작권 연도
     copyrightYear: '2026',
@@ -46,10 +46,10 @@ const CONFIG = {
     portfolioUrl: 'https://soomgo.com/profile/users/17787805',
 
     // SNS 링크 (사용하지 않으면 '#' 으로 두세요)
-    kakaotalkUrl: '#',
-    naverBlogUrl: '#',
+    kakaotalkUrl: 'http://pf.kakao.com/_xnxhihX',
+    naverBlogUrl: 'https://blog.naver.com/cleannote_',
     naverPlaceUrl: '#',
-    soomgoUrl: '#',
+    soomgoUrl: 'https://soomgo.com/profile/users/17787805',
 
 
     // ────────────────────────────────────────
