@@ -26,7 +26,7 @@ const CONFIG = {
     phone: '010-6464-9110',
 
     // 이메일 주소 (푸터에 표시)
-    email: 'cleannote.official@gmail.com',
+    email: 'cleannote_@naver.com',
 
     // 회사 주소 (푸터에 표시)
     address: '인천시 서구 서로3로 225',
@@ -35,7 +35,7 @@ const CONFIG = {
     copyrightYear: '2026',
 
     // 푸터 회사 소개 문구 (줄바꿈은 \n 으로)
-    footerDescription: '전문적이고 믿을 수 있는 청소 서비스로\n깨끗하고 쾌적한 공간을 만들어드립니다.',
+    footerDescription: '새로운 공간에 남기는 첫 기록\n클린노트가 함께하겠습니다.',
 
 
     // ────────────────────────────────────────
