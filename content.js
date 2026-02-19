@@ -22,9 +22,9 @@ const CONTENT = {
 
     hero: {
         badge: '서비스 소개',
-        title: '깨끗한 공간,',
-        titleHighlight: '행복한 일상',
-        description: '클린노트가 여러분의 소중한 공간을 전문적이고 꼼꼼하게 청소해 드립니다.',
+        title: '청소를 넘어,',
+        titleHighlight: '공간을 케어합니다',
+        description: '클린노트가 보이지 않는 부분까지 세심하게 책임지겠습니다.',
         features: [
             '전문 청소 인력',
             '친환경 세제 사용',
