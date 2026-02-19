@@ -48,7 +48,7 @@ const CONFIG = {
     // SNS 링크 (사용하지 않으면 '#' 으로 두세요)
     kakaotalkUrl: 'http://pf.kakao.com/_xnxhihX',
     naverBlogUrl: 'https://blog.naver.com/cleannote_',
-    naverPlaceUrl: '#',
+    naverPlaceUrl: 'https://naver.me/GYDtut7O',
     soomgoUrl: 'https://soomgo.com/profile/users/17787805',
 
 
