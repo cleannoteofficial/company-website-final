@@ -77,38 +77,26 @@ const CONFIG = {
 
         // 입주 청소
         ipju: {
-            basePrice: 150000,
-            priceNote: '20평 기준',
+            basePrice: 170000,
+            priceNote: '원룸 기준',
         },
 
         // 이사 청소
         moving: {
-            basePrice: 130000,
-            priceNote: '20평 기준',
+            basePrice: 170000,
+            priceNote: '원룸 기준',
         },
 
         // 거주 청소
         residence: {
-            basePrice: 100000,
-            priceNote: '20평 기준',
+            basePrice: 0,
+            priceNote: '상담 후 결정',
         },
 
-        // 사무실 청소
+        // 사업장 청소
         office: {
-            basePrice: 120000,
-            priceNote: '20평 기준',
-        },
-
-        // 상가 청소
-        store: {
-            basePrice: 110000,
-            priceNote: '20평 기준',
-        },
-
-        // 빌딩 청소
-        building: {
-            basePrice: 200000,
-            priceNote: '100평 기준',
+            basePrice: 0,
+            priceNote: '상담 후 결정',
         },
 
         // 정기 청소 (메인 페이지 카드용, 가격 없음)
