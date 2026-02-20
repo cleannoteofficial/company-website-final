@@ -39,7 +39,7 @@ const CONTENT = {
 
     stats: [
         { value: '300+', label: '만족한 고객' },
-        { value: '다수',  label: '자격증 보유' },
+        { value: '자격증',  label: '다수 보유' },
         { value: '8년+',  label: '경력' },
     ],
 
