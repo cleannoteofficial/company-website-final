@@ -156,8 +156,8 @@ const CONFIG = {
         'ipju-cleaning':      '17만원~',
         'moving-cleaning':    '17만원~',
         'residence-cleaning': '22만원~',
-        'office-cleaning':    '17만원~',
-        'regular-cleaning':   '10만원~',
-        'special-cleaning':   '10만원~',
+        'office-cleaning':    '20만원~',
+        'regular-cleaning':   '상담 후 결정',
+        'special-cleaning':   '상담 후 결정',
     },
 };
