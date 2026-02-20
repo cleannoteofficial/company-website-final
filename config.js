@@ -157,8 +157,6 @@ const CONFIG = {
         'moving-cleaning':    '17만원~',
         'residence-cleaning': '22만원~',
         'office-cleaning':    '17만원~',
-        'store-cleaning':     '10만원~',
-        'building-cleaning':  '10만원~',
         'regular-cleaning':   '10만원~',
         'special-cleaning':   '10만원~',
     },
