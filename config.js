@@ -90,7 +90,7 @@ const CONFIG = {
         // 거주 청소
         residence: {
             basePrice: 220000,
-            priceNote: '상담 후 결정',
+            priceNote: '원룸 기준',
         },
 
         // 사업장 청소
