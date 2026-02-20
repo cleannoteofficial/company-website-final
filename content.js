@@ -234,10 +234,10 @@ const CONTENT = {
     //
 
     processSteps: [
-        { iconType: 'phone',    number: 'STEP 01', title: '상담 신청',    description: '전화 또는 온라인으로 간편하게 상담을 신청하세요.' },
+        { iconType: 'phone',    number: 'STEP 01', title: '상담 신청',    description: '채팅 또는 유선으로 간편하게 상담을 신청하세요.' },
         { iconType: 'estimate', number: 'STEP 02', title: '맞춤 견적',    description: '공간 크기와 상태에 따라 정확한 견적을 안내해 드립니다.' },
-        { iconType: 'calendar', number: 'STEP 03', title: '예약 및 방문',  description: '원하시는 날짜와 시간에 전문 팀이 방문합니다.' },
-        { iconType: 'thumbsup', number: 'STEP 04', title: '청소 완료',    description: '꼼꼼한 청소 후 고객님의 확인까지 완벽하게 마무리합니다.' },
+        { iconType: 'calendar', number: 'STEP 03', title: '예약 및 방문',  description: '원하시는 날짜와 시간에 직영팀이 방문합니다.' },
+        { iconType: 'thumbsup', number: 'STEP 04', title: '청소 완료',    description: '꼼꼼한 청소 후 검수까지 완벽하게 마무리합니다.' },
     ],
 
 
